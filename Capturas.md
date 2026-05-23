@@ -36,3 +36,11 @@ Codigo en `apiNueva/`.
 ### RDS desde EC2
 <img width="1204" height="690" alt="imagen" src="https://github.com/user-attachments/assets/8321ac01-a73a-4616-8f45-4e3fca5a70e5" />
 
+### Resultados de la API
+<img width="1897" height="943" alt="imagen" src="https://github.com/user-attachments/assets/5434efe2-9b68-4a2f-81b4-488df986c384" />
+<img width="1920" height="989" alt="imagen" src="https://github.com/user-attachments/assets/fcf61694-3473-43a2-bad9-1d9b2886ad12" />
+<img width="1920" height="989" alt="imagen" src="https://github.com/user-attachments/assets/632ab541-3432-467e-a4e5-105f19a50a21" />
+<img width="1920" height="989" alt="imagen" src="https://github.com/user-attachments/assets/b181f378-21c1-427a-b00f-53158b31c8ca" />
+
+
+
