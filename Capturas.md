@@ -42,5 +42,12 @@ Codigo en `apiNueva/`.
 <img width="1920" height="989" alt="imagen" src="https://github.com/user-attachments/assets/632ab541-3432-467e-a4e5-105f19a50a21" />
 <img width="1920" height="989" alt="imagen" src="https://github.com/user-attachments/assets/b181f378-21c1-427a-b00f-53158b31c8ca" />
 
+### Desde Docker
+<img width="1919" height="1035" alt="imagen" src="https://github.com/user-attachments/assets/4f897bb2-311b-4165-a22b-a636c7c25407" />
 
+### Imagen en ECR 
+<img width="959" height="697" alt="imagen" src="https://github.com/user-attachments/assets/19d4f573-f0c0-4158-b85b-f1fadc1f4b3f" />
+
+### Montado en lambda
+<img width="1920" height="1037" alt="imagen" src="https://github.com/user-attachments/assets/ce007857-9b22-42b3-9273-588883367153" />
 
